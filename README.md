@@ -1,7 +1,6 @@
 # Facebook Bot Comments
-Coded by : Revan AR__
-{ IndoSec }____
-
+Coded by : Revan AR <br />
+{ IndoSec }<br />
 # Usage :
 - php bot.php
     - Masukan token akun Kalian
